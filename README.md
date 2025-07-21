@@ -53,15 +53,15 @@
 
 🔧 *[Coming Soon]* – Will be adding my cool projects here  
 
-
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/adarsh-kumar-9abaab327/)  
-[![instagram](https://www.instagram.com/ishux2006/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-9abaab327/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ishux2006/)  
 📧 Email: ishuwilltell@gmail.com
 
 ---
+
 
 
