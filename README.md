@@ -49,9 +49,15 @@
 
 ---
 
+
 ## 🚀 Projects
 
-🔧 *[Coming Soon]* – Will be adding my cool projects here  
+### 🎧 Spotify Stats App
+A modern web app built using Python and Streamlit to show your Spotify top tracks, artists, and genres.
+
+🔗 [View on GitHub](https://github.com/adarshkumarit/spotify-stats-app)  
+🌐 [Live Demo](https://spotify-stats.streamlit.app)   
+🛠️ Tools: Python, Streamlit, Spotipy, Spotify API
 
 ---
 
