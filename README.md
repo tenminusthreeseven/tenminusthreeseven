@@ -52,16 +52,16 @@
 ## 🚀 Projects
 
 🔧 *[Coming Soon]* – Will be adding my cool projects here  
-💡 Tip: Pin your favorite repositories to your profile!
+
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-📧 Email: your-email@example.com
+[![LinkedIn](https://www.linkedin.com/in/adarsh-kumar-9abaab327/)  
+[![instagram](https://www.instagram.com/ishux2006/?next=%2F)
+📧 Email: ishuwilltell@gmail.com
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=adarshkumarit&color=blue&style=flat-square)
 
