@@ -1,4 +1,4 @@
-<!-- Banner image (optional) -->
+<!-- Optional: Banner -->
 <!-- ![Banner](https://your-banner-url.com) -->
 
 # 👋 Hello World! I'm Adarsh Kumar
@@ -6,13 +6,13 @@
 🎓 B.Tech Student (IT Department)  
 💡 Full-stack Web Enthusiast | Backend Curious | Tech Explorer  
 🌱 Currently sharpening my skills in **Java, Node.js, and SQL**
-#
-checkout for more info - https://adarshkumar007.vercel.app/
+
+🔗 [Checkout my Portfolio](https://adarshkumar007.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frontend**
+### 🌐 Languages & Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -22,7 +22,7 @@ checkout for more info - https://adarshkumar007.vercel.app/
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
-**Backend & Database**
+### 🗃️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
@@ -31,42 +31,40 @@ checkout for more info - https://adarshkumar007.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkumarit&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumarit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/adarshkumarit)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adarshkumarit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 🧠 A Bit About Me
-
-- 🧑‍🎓 Currently pursuing **B.Tech in Information Technology**
-- 🌱 Learning everyday — from fundamentals to full-stack
-- 🔍 Exploring backend development with **Node.js** & **Databases**
-- 💬 Ask me about **web dev, Java, or Python**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumarit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumarit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
+## 🚀 Featured Project
 
-## 🚀 Projects
+### 🎧 Spotify Stats App  
+> Discover your music taste with a clean, Streamlit-based Spotify analytics dashboard.
 
-### 🎧 Spotify Stats App
-A modern web app built using Python and Streamlit to show your Spotify top tracks, artists, and genres.
-
-🔗 [View on GitHub](https://github.com/adarshkumarit/spotify-stats-app)  
-🌐 [Live Demo](https://spotify-stats.streamlit.app)   
-🛠️ Tools: Python, Streamlit, Spotipy, Spotify API
+- 🔗 [GitHub Repo](https://github.com/adarshkumarit/spotify-stats-app)  
+- 🌐 [Live Demo](https://spotify-stats.streamlit.app)  
+- 🛠️ **Tech**: Python, Streamlit, Spotipy, Spotify API
 
 ---
 
-## 📫 Connect With Me
+## 🧠 About Me
+
+- 🎓 Pursuing B.Tech in Information Technology  
+- 🌱 Continuously learning — from fundamentals to full-stack  
+- 🧑‍💻 Passionate about backend, databases & real-world projects  
+- 💬 Open to collaborations, internships, and discussions  
+
+---
+
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-9abaab327/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ishux2006/)  
-📧 Email: ishuwilltell@gmail.com
+📧 **Email:** ishuwilltell@gmail.com
 
 ---
 
