@@ -1,6 +1,5 @@
 <!-- Optional: Banner -->
 <!-- ![Banner](https://your-banner-url.com) -->
-
 # 👋 Hello World! I'm Adarsh Kumar
 
 🎓 B.Tech Student (IT Department)  
@@ -8,6 +7,19 @@
 🌱 Currently sharpening my skills in **Java, Node.js, and SQL**
 
 🔗 [Checkout my Portfolio](https://adarshkumar007.vercel.app/)
+
+---
+
+## 🔥 Streak & Profile Views
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=adarshkumarit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=adarshkumarit&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -40,6 +52,15 @@
 
 ---
 
+## 🐱 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250px" alt="Man coding"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250px" alt="Cat coding"/>
+</p>
+
+---
+
 ## 🚀 Featured Project
 
 ### 🎧 Spotify Stats App  
@@ -67,6 +88,5 @@
 📧 **Email:** ishuwilltell@gmail.com
 
 ---
-
 
 
