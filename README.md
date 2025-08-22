@@ -14,10 +14,10 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=adarshkumarit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=tenminusthreeseven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
   
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=adarshkumarit&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tenminusthreeseven&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshkumarit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumarit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tenminusthreeseven&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenminusthreeseven&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### 🎧 Spotify Stats App  
 > Discover your music taste with a clean, Streamlit-based Spotify analytics dashboard.
 
-- 🔗 [GitHub Repo](https://github.com/adarshkumarit/spotify-stats-app)  
+- 🔗 [GitHub Repo](https://github.com/tenminusthreeseven/spotify-stats-app)  
 - 🌐 [Live Demo](https://spotify-stats.streamlit.app)  
 - 🛠️ **Tech**: Python, Streamlit, Spotipy, Spotify API
 
