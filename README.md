@@ -14,7 +14,8 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=tenminusthreeseven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+ ![GitHub Streak](https://streak-stats.demolab.com?user=tenminusthreeseven&theme=tokyonight&hide_border=true)
+
   
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=tenminusthreeseven&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
