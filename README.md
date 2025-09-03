@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tenminusthreeseven&show_icons=true&theme=tokyonight" width="49%"/>
+
   <img src="https://streak-stats.demolab.com?user=tenminusthreeseven&theme=tokyonight&hide_border=true" width="49%"/>
 
 
