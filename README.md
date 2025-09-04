@@ -1,4 +1,4 @@
-<!-- Optional: Banner -->
+
 <!-- ![Banner](https://your-banner-url.com) -->
 # 👋 Hello World! I'm Adarsh Kumar
 
