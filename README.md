@@ -4,7 +4,7 @@
 
 🎓 B.Tech Student (IT Department)  
 💡 Full-stack Web Enthusiast | Backend Curious | Tech Explorer  
-🌱 Currently sharpening my skills in **Java, Node.js, and SQL**
+🌱 Currently sharpening my skills in **Java,django, and SQL**
 
 🔗 [Checkout my Portfolio](https://adarshkumar007.vercel.app/)
 
