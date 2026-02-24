@@ -10,10 +10,10 @@ Currently learning and building with modern backend and cloud technologies.
 ----------------
 Connect With Me
 
-X / Twitter   → https://x.com/yourusername
-Portfolio     → https://yourportfolio.com
-LinkedIn      → https://linkedin.com/in/yourusername
-Email         → yourmail@gmail.com
+X / Twitter   → https://x.com/adarsh_yaml
+Portfolio     → https://adarshkumar007.vercel.app/
+LinkedIn      → https://linkedin.com/in/dev.adarshkumar
+Email         → dev.adarshkumar07@gmail.com
 
 ----------------
 Skills & Tools
