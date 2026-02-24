@@ -1,57 +1,39 @@
-# ADARSH KUMAR 
+```
+ADARSH KUMAR
+============
 
-Backend & Cloud Enthusiast | MERN Stack Developer  
-Building scalable products for developers & communities.
+Age: 20
 
-Currently diving deep into:
-AWS • Kubernetes • System Design • Scalable Architectures
+Love turning ideas into working products.
+Currently learning and building with modern backend and cloud technologies.
 
----
+----------------
+Connect With Me
 
-## 🌐 Connect With Me
+X / Twitter   → https://x.com/yourusername
+Portfolio     → https://yourportfolio.com
+LinkedIn      → https://linkedin.com/in/yourusername
+Email         → yourmail@gmail.com
 
-- X (Twitter): https://x.com/adarsh_yaml
-- Portfolio: https://
-- LinkedIn: https://www.linkedin.com/in/
-- Email: 
+----------------
+Skills & Tools
 
----
+Backend:      Node.js, Express.js, Java, Spring Boot
+Frontend:     React, JavaScript, TypeScript, HTML5, CSS3
+Databases:    MongoDB, MySQL, Redis
+DevOps:       Docker, Git, Linux
+Cloud:        AWS (Learning), Kubernetes (Learning)
 
-## 🛠 Tech Stack
+----------------
+Current Focus
 
-### 👨‍💻 Backend
-Node.js • Express.js
+• Mastering MERN Stack
+• Learning AWS & Cloud Architecture
+• Understanding Kubernetes & Containers
+• Improving System Design
+• Building Scalable Applications
 
-### 🎨 Frontend
-React • JavaScript • TypeScript • HTML5 • CSS3
-
-### 🗄 Databases
-MySQL • MongoDB 
-
-### ☁ Cloud & DevOps
-AWS (Learning) • Docker • Kubernetes (Learning) • Git • Linux • Postman
-
----
-
-## 🚀 Featured Projects
-
----
-
-## 📈 2026 Focus
-
-- Mastering AWS (EC2, S3, IAM, RDS, Lambda)
-- Learning Kubernetes & container orchestration
-- Improving System Design
-- Contributing more to Open Source
-- Building production-grade SaaS
-
----
-
-### 💡 Philosophy
-
-> Build fast. Learn deeply. Scale wisely.
-
----
-
-Thanks for stopping by 👋  
-Let’s build something impactful.
+----------------
+Thanks for stopping by.
+Let's build something meaningful.
+```
